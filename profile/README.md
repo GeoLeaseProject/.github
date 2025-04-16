@@ -22,7 +22,7 @@
 
 - Node.js / Express  
 - React / Tailwind  
-- PostgreSQL / Prisma  
+- PostgreSQL / Sequelize  
 
 
 ---
